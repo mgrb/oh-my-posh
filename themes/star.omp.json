@@ -41,7 +41,7 @@
           "type": "python",
           "style": "plain",
           "foreground": "#98C379",
-          "template": "{{ if .Error }}{{ .Error }}{{ else }} {{ if .Venv }}{{ .Venv }} {{ end }}{{ .Full }}{{ end }}"
+          "template": "{{ if .Error }}{{ .Error }}{{ else }} {{ if .Venv }}{{ .Venv }} {{ end }}{{ .Full }}{{ end }}"
         },
         {
           "foreground": "#C94A16",
